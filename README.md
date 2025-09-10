@@ -6,3 +6,5 @@ To contribute to the success of a business by utilizing data analysis technique,
 
 Learning:
 incorporated data analysis techniques, specializing in time series analysis, to delever valuable insights, accurate sales analysis and interactive dashboard creation, driving business sucess
+
+https://github.com/rohanbaliyan001/Super-store-sales-Dashboard/blob/main/Super%20store%20sales%20screenshot%20.png
